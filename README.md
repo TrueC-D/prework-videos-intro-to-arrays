@@ -14,7 +14,7 @@
 
 ## Lesson
 
-<iframe width="100%" height="720" src="https://www.youtube.com/embed/OeuJxVytL4Xs?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="720" src="https://www.youtube.com/embed/euJxVytL4Xs?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 + Hi folks, it's Ian from Flatiron School. In this video, we're going to learn about storing lists of data in Ruby using Arrays.
 + By the end of this video, you should be able to:
